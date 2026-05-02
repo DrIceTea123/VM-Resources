@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "title": "Feed The Forge 0.1.0",
+  "download_url": "https://github.com/Wulian233/FeedTheForge/releases/latest",
+  "changelog": {
+    "zh-CN": "- 初次发布",
+    "en-US": "- Initial release"
+  }
+}
