@@ -9,6 +9,10 @@
       "translationVersion": "1.4.0",
       "modpackVersion": "1.2.1"
     },
+    "rad": {
+      "translationVersion": "1.5.6",
+      "modpackVersion": "1.5.6"
+    },
     "rad2": {
       "translationVersion": "1.0.0",
       "modpackVersion": "1.14"
@@ -19,7 +23,7 @@
     },
     "ftbe": {
       "translationVersion": "1.0.0",
-      "modpackVersion": "1.32.1"
+      "modpackVersion": "1.33.2"
     },
     "craftoria": {
       "translationVersion": "1.0.0",
@@ -31,7 +35,7 @@
     },
     "skies-2": {
       "translationVersion": "1.15.0",
-      "modpackVersion": "1.15.0"
+      "modpackVersion": "1.16.0"
     },
     "cosmic-frontiers": {
       "translationVersion": "1.1.0",
@@ -58,8 +62,8 @@
       "modpackVersion": "1.11.6"
     },
     "sb4": {
-      "translationVersion": "1.12.0",
-      "modpackVersion": "1.12.0"
+      "translationVersion": "1.13.1",
+      "modpackVersion": "1.13.1"
     },
     "neotech": {
       "translationVersion": "1.11.0",
