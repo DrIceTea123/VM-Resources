@@ -76,6 +76,14 @@
     "vault": {
       "translationVersion": "2.6.16",
       "modpackVersion": "3.21.4.1"
+    },
+    "enigmatic-skies": {
+      "translationVersion": "1.7.1",
+      "modpackVersion": "1.7.1"
+    },
+    "ozone-skyblock-reborn-2": {
+      "translationVersion": "1.3.3",
+      "modpackVersion": "1.3.3"
     }
   }
 }
