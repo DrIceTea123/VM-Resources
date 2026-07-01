@@ -22,20 +22,20 @@
       "modpackVersion": "1.18"
     },
     "ftbe": {
-      "translationVersion": "1.36.0",
-      "modpackVersion": "1.36.0"
+      "translationVersion": "1.38.1",
+      "modpackVersion": "1.38.1"
     },
     "craftoria": {
       "translationVersion": "1.0.0",
-      "modpackVersion": "1.30.0"
+      "modpackVersion": "1.31.0"
     },
     "techopolis3": {
       "translationVersion": "1.0.0",
       "modpackVersion": "12.0"
     },
     "skies-2": {
-      "translationVersion": "1.17.0",
-      "modpackVersion": "1.17.0"
+      "translationVersion": "1.18.1",
+      "modpackVersion": "1.18.2"
     },
     "cosmic-frontiers": {
       "translationVersion": "1.1.0",
@@ -84,6 +84,10 @@
     "ozone-skyblock-reborn-2": {
       "translationVersion": "1.3.3",
       "modpackVersion": "1.3.3"
+    },
+    "vampires-strike-back": {
+      "translationVersion": "1.6.1",
+      "modpackVersion": "1.6.1"
     }
   }
 }
