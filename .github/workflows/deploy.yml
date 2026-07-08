@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
@@ -36,7 +36,7 @@ jobs:
 
       - name: Deploy to Server via Rsync
         if: github.event_name == 'push' && steps.changed-files.outputs.any_changed == 'true'
-        uses: Burnett01/rsync-deployments@8.0.2
+        uses: Burnett01/rsync-deployments@v9
         with:
           switches: -avzr --delete --chmod=D755,F644 --exclude='.github/' --exclude='.git/' -e 'ssh -o StrictHostKeyChecking=no'
           path: ./
