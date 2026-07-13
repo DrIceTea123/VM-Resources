@@ -1,9 +1,9 @@
 {
-  "version": "0.1.0",
-  "title": "CTS Save Editor 0.1.0",
+  "version": "0.2.0",
+  "title": "CTS Save Editor 0.2.0",
   "download_url": "https://github.com/Wulian233/CTS-Save-Editor/releases/latest",
   "changelog": {
-    "zh-CN": "- 初次发布",
-    "en-US": "- Initial release"
+    "zh-CN": "移除Live Meta区域。添加了添加平滑滚动并重做UI。",
+    "en-US": "Removed Live Meta section. Added smooth scrolling and revamped the UI"
   }
 }
