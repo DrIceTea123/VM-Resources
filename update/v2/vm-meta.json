@@ -34,8 +34,8 @@
       "modpackVersion": "12.3"
     },
     "skies-2": {
-      "translationVersion": "1.19.0",
-      "modpackVersion": "1.19.0"
+      "translationVersion": "1.20.0",
+      "modpackVersion": "1.20.0"
     },
     "cosmic-frontiers": {
       "translationVersion": "1.1.0",
@@ -62,8 +62,8 @@
       "modpackVersion": "1.11.6"
     },
     "sb4": {
-      "translationVersion": "1.17.0",
-      "modpackVersion": "1.17.0"
+      "translationVersion": "1.17.1",
+      "modpackVersion": "1.17.1"
     },
     "neotech": {
       "translationVersion": "1.11.0",
@@ -90,8 +90,8 @@
       "modpackVersion": "1.7.0"
     },
     "skies2-aero": {
-      "translationVersion": "1.1.0",
-      "modpackVersion": "1.1.0"
+      "translationVersion": "1.2.1",
+      "modpackVersion": "1.2.1"
     }
   }
 }
