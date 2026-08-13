@@ -17,13 +17,9 @@
       "translationVersion": "1.0.0",
       "modpackVersion": "1.14"
     },
-    "liminal-industries": {
-      "translationVersion": "1.0.0",
-      "modpackVersion": "1.18"
-    },
     "ftbe": {
-      "translationVersion": "1.39.0",
-      "modpackVersion": "1.39.0"
+      "translationVersion": "1.40.1",
+      "modpackVersion": "1.40.1"
     },
     "craftoria": {
       "translationVersion": "1.0.0",
@@ -96,6 +92,10 @@
     "fractured": {
       "translationVersion": "4.0",
       "modpackVersion": "4.0"
+    },
+    "submerged-2": {
+      "translationVersion": "8.1",
+      "modpackVersion": "8.1"
     }
   }
 }
